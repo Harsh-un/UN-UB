@@ -1,7 +1,7 @@
 {
     "name": "The Un Bot",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
-    "logo": "https://telegra.ph/file/66514ec253bd0ecb3640b.jpg",
+    "logo": "https://telegra.ph/file/11a9e10a4ba0a125eab7a.jpg",
     "keywords": [
         "telegram",
         "userbot",
@@ -9,7 +9,7 @@
         "pyrogram",
         "hellbot"
     ],
-    "repository": "https://github.com/Harsh-un/UN-UB/",
+    "repository": "https://github.com/The-HellBot/HellBot/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
