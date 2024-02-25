@@ -47,7 +47,7 @@ Follow these 4 straightforward steps to deploy Un Bot on Heroku:
 That's it! You've successfully deployed Un Bot on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
+    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/UnBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
 </p>
 
 ---
